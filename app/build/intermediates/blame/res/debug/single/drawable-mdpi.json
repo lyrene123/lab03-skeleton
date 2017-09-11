@@ -1,6 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
-        "source": "C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+        "merged": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
     }
 ]

@@ -1,26 +1,34 @@
 [
     {
-        "merged": "C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_one.xml",
-        "source": "C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\menu\\activity_one.xml"
+        "merged": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_one.xml",
+        "source": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\menu\\activity_one.xml"
     },
     {
-        "merged": "C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_one.xml",
-        "source": "C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\menu\\activity_one.xml"
+        "merged": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_one.xml",
+        "source": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\menu\\activity_one.xml"
     },
     {
-        "merged": "C:\\home\\tricia\\2017\\lab03-skeleton\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_two.xml",
-        "source": "C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\menu\\activity_two.xml"
+        "merged": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/app/build/intermediates/res/merged/debug/menu/activity_two.xml",
+        "source": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/app/src/main/res/menu/activity_two.xml"
     },
     {
-        "merged": "C:\\home\\tricia\\2017\\lab03-skeleton\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_one.xml",
-        "source": "C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\menu\\activity_one.xml"
+        "merged": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\home\\tricia\\2017\\lab03-skeleton\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_two.xml",
+        "source": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\menu\\activity_two.xml"
     },
     {
-        "merged": "C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_two.xml",
-        "source": "C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\menu\\activity_two.xml"
+        "merged": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/app/build/intermediates/res/merged/debug/menu/activity_one.xml",
+        "source": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/app/src/main/res/menu/activity_one.xml"
     },
     {
-        "merged": "C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_two.xml",
-        "source": "C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\menu\\activity_two.xml"
+        "merged": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\home\\tricia\\2017\\lab03-skeleton\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_one.xml",
+        "source": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\menu\\activity_one.xml"
+    },
+    {
+        "merged": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_two.xml",
+        "source": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\menu\\activity_two.xml"
+    },
+    {
+        "merged": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_two.xml",
+        "source": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\menu\\activity_two.xml"
     }
 ]

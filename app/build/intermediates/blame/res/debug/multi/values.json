@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "outputFile": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,14 @@
                     "endOffset": 100
                 },
                 "from": {
-                    "file": "C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 49,
+                        "endOffset": 101
+                    }
                 }
             },
             {
@@ -23,7 +30,14 @@
                     "endOffset": 154
                 },
                 "from": {
-                    "file": "C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 538,
+                        "endColumn": 53,
+                        "endOffset": 587
+                    }
                 }
             },
             {
@@ -35,7 +49,14 @@
                     "endOffset": 203
                 },
                 "from": {
-                    "file": "C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 750,
+                        "endColumn": 48,
+                        "endOffset": 794
+                    }
                 }
             },
             {
@@ -47,7 +68,14 @@
                     "endOffset": 247
                 },
                 "from": {
-                    "file": "C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 878,
+                        "endColumn": 43,
+                        "endOffset": 917
+                    }
                 }
             },
             {
@@ -59,7 +87,14 @@
                     "endOffset": 291
                 },
                 "from": {
-                    "file": "C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 922,
+                        "endColumn": 43,
+                        "endOffset": 961
+                    }
                 }
             },
             {
@@ -71,7 +106,14 @@
                     "endOffset": 342
                 },
                 "from": {
-                    "file": "C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 106,
+                        "endColumn": 50,
+                        "endOffset": 152
+                    }
                 }
             },
             {
@@ -83,7 +125,14 @@
                     "endOffset": 397
                 },
                 "from": {
-                    "file": "C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 157,
+                        "endColumn": 54,
+                        "endOffset": 207
+                    }
                 }
             },
             {
@@ -95,7 +144,14 @@
                     "endOffset": 454
                 },
                 "from": {
-                    "file": "C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 424,
+                        "endColumn": 56,
+                        "endOffset": 476
+                    }
                 }
             },
             {
@@ -107,7 +163,14 @@
                     "endOffset": 507
                 },
                 "from": {
-                    "file": "C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 320,
+                        "endColumn": 52,
+                        "endOffset": 368
+                    }
                 }
             },
             {
@@ -119,7 +182,14 @@
                     "endOffset": 564
                 },
                 "from": {
-                    "file": "C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 481,
+                        "endColumn": 56,
+                        "endOffset": 533
+                    }
                 }
             },
             {
@@ -131,7 +201,14 @@
                     "endOffset": 619
                 },
                 "from": {
-                    "file": "C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 265,
+                        "endColumn": 54,
+                        "endOffset": 315
+                    }
                 }
             },
             {
@@ -143,7 +220,14 @@
                     "endOffset": 672
                 },
                 "from": {
-                    "file": "C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 212,
+                        "endColumn": 52,
+                        "endOffset": 260
+                    }
                 }
             },
             {
@@ -155,7 +239,14 @@
                     "endOffset": 723
                 },
                 "from": {
-                    "file": "C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 373,
+                        "endColumn": 50,
+                        "endOffset": 419
+                    }
                 }
             },
             {
@@ -167,7 +258,14 @@
                     "endOffset": 801
                 },
                 "from": {
-                    "file": "C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 799,
+                        "endColumn": 77,
+                        "endOffset": 872
+                    }
                 }
             },
             {
@@ -179,7 +277,14 @@
                     "endOffset": 870
                 },
                 "from": {
-                    "file": "C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 592,
+                        "endColumn": 68,
+                        "endOffset": 656
+                    }
                 }
             },
             {
@@ -191,7 +296,253 @@
                     "endOffset": 959
                 },
                 "from": {
-                    "file": "C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 661,
+                        "endColumn": 88,
+                        "endOffset": 745
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 964,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1250
+                },
+                "from": {
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1255,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 1410
+                },
+                "from": {
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 53,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 159,
+                    "endColumn": 48,
+                    "endOffset": 203
+                },
+                "from": {
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 208,
+                    "endColumn": 43,
+                    "endOffset": 247
+                },
+                "from": {
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 252,
+                    "endColumn": 43,
+                    "endOffset": 291
+                },
+                "from": {
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 296,
+                    "endColumn": 50,
+                    "endOffset": 342
+                },
+                "from": {
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 347,
+                    "endColumn": 54,
+                    "endOffset": 397
+                },
+                "from": {
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 402,
+                    "endColumn": 56,
+                    "endOffset": 454
+                },
+                "from": {
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 459,
+                    "endColumn": 52,
+                    "endOffset": 507
+                },
+                "from": {
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 512,
+                    "endColumn": 56,
+                    "endOffset": 564
+                },
+                "from": {
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 569,
+                    "endColumn": 54,
+                    "endOffset": 619
+                },
+                "from": {
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 624,
+                    "endColumn": 52,
+                    "endOffset": 672
+                },
+                "from": {
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 677,
+                    "endColumn": 50,
+                    "endOffset": 723
+                },
+                "from": {
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 728,
+                    "endColumn": 77,
+                    "endOffset": 801
+                },
+                "from": {
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 806,
+                    "endColumn": 68,
+                    "endOffset": 870
+                },
+                "from": {
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 875,
+                    "endColumn": 88,
+                    "endOffset": 959
+                },
+                "from": {
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -211,7 +562,7 @@
                     "endOffset": 1042
                 },
                 "from": {
-                    "file": "C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\values\\styles.xml"
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\values\\styles.xml"
                 }
             },
             {
@@ -224,13 +575,13 @@
                     "endOffset": 1114
                 },
                 "from": {
-                    "file": "C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\values\\styles.xml"
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\values\\styles.xml"
                 }
             }
         ]
     },
     {
-        "outputFile": "C:\\home\\tricia\\2017\\lab03-skeleton\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "outputFile": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\home\\tricia\\2017\\lab03-skeleton\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -241,7 +592,7 @@
                     "endOffset": 100
                 },
                 "from": {
-                    "file": "C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -253,7 +604,7 @@
                     "endOffset": 154
                 },
                 "from": {
-                    "file": "C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -265,7 +616,7 @@
                     "endOffset": 203
                 },
                 "from": {
-                    "file": "C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -277,7 +628,7 @@
                     "endOffset": 247
                 },
                 "from": {
-                    "file": "C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -296,7 +647,7 @@
                     "endOffset": 291
                 },
                 "from": {
-                    "file": "C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -315,7 +666,7 @@
                     "endOffset": 342
                 },
                 "from": {
-                    "file": "C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -327,7 +678,7 @@
                     "endOffset": 397
                 },
                 "from": {
-                    "file": "C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -339,7 +690,7 @@
                     "endOffset": 454
                 },
                 "from": {
-                    "file": "C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -351,7 +702,7 @@
                     "endOffset": 507
                 },
                 "from": {
-                    "file": "C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -363,7 +714,7 @@
                     "endOffset": 564
                 },
                 "from": {
-                    "file": "C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -375,7 +726,7 @@
                     "endOffset": 619
                 },
                 "from": {
-                    "file": "C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -387,7 +738,7 @@
                     "endOffset": 672
                 },
                 "from": {
-                    "file": "C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -399,7 +750,7 @@
                     "endOffset": 723
                 },
                 "from": {
-                    "file": "C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -411,7 +762,7 @@
                     "endOffset": 801
                 },
                 "from": {
-                    "file": "C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -423,7 +774,7 @@
                     "endOffset": 870
                 },
                 "from": {
-                    "file": "C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -435,7 +786,7 @@
                     "endOffset": 930
                 },
                 "from": {
-                    "file": "C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -448,7 +799,7 @@
                     "endOffset": 1221
                 },
                 "from": {
-                    "file": "C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\values\\styles.xml"
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\values\\styles.xml"
                 }
             },
             {
@@ -461,13 +812,13 @@
                     "endOffset": 1381
                 },
                 "from": {
-                    "file": "C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\values\\styles.xml"
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\values\\styles.xml"
                 }
             }
         ]
     },
     {
-        "outputFile": "C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "outputFile": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -478,7 +829,7 @@
                     "endOffset": 100
                 },
                 "from": {
-                    "file": "C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -497,7 +848,7 @@
                     "endOffset": 154
                 },
                 "from": {
-                    "file": "C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -516,7 +867,7 @@
                     "endOffset": 203
                 },
                 "from": {
-                    "file": "C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -535,7 +886,7 @@
                     "endOffset": 252
                 },
                 "from": {
-                    "file": "C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 1,
@@ -554,7 +905,7 @@
                     "endOffset": 303
                 },
                 "from": {
-                    "file": "C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -573,7 +924,7 @@
                     "endOffset": 354
                 },
                 "from": {
-                    "file": "C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -592,7 +943,7 @@
                     "endOffset": 409
                 },
                 "from": {
-                    "file": "C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -611,7 +962,7 @@
                     "endOffset": 466
                 },
                 "from": {
-                    "file": "C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -630,7 +981,7 @@
                     "endOffset": 519
                 },
                 "from": {
-                    "file": "C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -649,7 +1000,7 @@
                     "endOffset": 576
                 },
                 "from": {
-                    "file": "C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -668,7 +1019,7 @@
                     "endOffset": 631
                 },
                 "from": {
-                    "file": "C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -687,7 +1038,7 @@
                     "endOffset": 684
                 },
                 "from": {
-                    "file": "C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -706,7 +1057,7 @@
                     "endOffset": 735
                 },
                 "from": {
-                    "file": "C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -725,7 +1076,7 @@
                     "endOffset": 804
                 },
                 "from": {
-                    "file": "C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -744,7 +1095,7 @@
                     "endOffset": 864
                 },
                 "from": {
-                    "file": "C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -764,7 +1115,7 @@
                     "endOffset": 1155
                 },
                 "from": {
-                    "file": "C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -785,7 +1136,7 @@
                     "endOffset": 1315
                 },
                 "from": {
-                    "file": "C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
