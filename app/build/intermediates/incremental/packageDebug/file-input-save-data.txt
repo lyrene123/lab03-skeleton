@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Sep 11 14:53:34 EDT 2017
+#Mon Sep 11 21:16:03 EDT 2017
 2.base=/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/app/build/intermediates/res/resources-debug.ap_
 5.file=/Users/laborlyrene/AndroidDevLabs/lab3/lab03-skeleton/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_two.xml
 5.set=ANDROID_RESOURCE

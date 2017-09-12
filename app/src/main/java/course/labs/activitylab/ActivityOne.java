@@ -1,5 +1,6 @@
 package course.labs.activitylab;
 
+import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.app.Activity;
 import android.content.Intent;
@@ -38,8 +39,25 @@ public class ActivityOne extends Activity {
 				stopCount = savedInstanceState.getInt("stopCount");
 				destroyCount = savedInstanceState.getInt("destroyCount");
 				restartCount = savedInstanceState.getInt("restartCount");
-			}
+			}else {
+				SharedPreferences prefs = getPreferences(MODE_PRIVATE);
+				createCount = Integer.parseInt(prefs.getString("restartCount", "0"));
+				startCount = Integer.parseInt(prefs.getString("startCount", "0"));
+				resumeCount = Integer.parseInt(prefs.getString("resumeCount", "0"));
+				pauseCount = Integer.parseInt(prefs.getString("pauseCount","0"));
+				stopCount = Integer.parseInt(prefs.getString("stopCount","0"));
+				destroyCount = Integer.parseInt(prefs.getString("destroyCount","0"));
+				restartCount = Integer.parseInt(prefs.getString("restartCount","0"));
 
+				tvCreate.setText("onCreate() calls: " + prefs.getString("createCount", "0"));
+				tvStart.setText("onStart() calls: " + prefs.getString("startCount", "0"));
+				tvResume.setText("onResume() calls: " + prefs.getString("resumeCount", "0"));
+				tvPause.setText("onPause() calls: " + prefs.getString("pauseCount", "0"));
+				tvStop.setText("onStop() calls: " + prefs.getString("stopCount", "0"));
+				tvDestroy.setText("onDestroy() calls: " + prefs.getString("destroyCount", "0"));
+				tvRestart.setText("onRestart() calls: " + prefs.getString("restartCount", "0"));
+			}
+			
 			//Log cat print out
 			Log.i(TAG, "onCreate called");
 			createCount++;
@@ -83,6 +101,8 @@ public class ActivityOne extends Activity {
 			Log.i(TAG, "onPause called");
 			pauseCount++;
 			tvPause.setText("onPause() calls " + Integer.toString(pauseCount));
+
+
 		}
 
 		@Override
@@ -93,6 +113,8 @@ public class ActivityOne extends Activity {
 			Log.i(TAG, "onStop called");
 			stopCount++;
 			tvStop.setText("onStop() calls: " + Integer.toString(stopCount));
+
+
 		}
 
 		@Override
@@ -115,6 +137,29 @@ public class ActivityOne extends Activity {
 			tvRestart.setText("onRestart() calls: " + Integer.toString(restartCount));
 		}
 
+	public void saveState(View view) {
+		SharedPreferences prefs = getPreferences(MODE_PRIVATE);
+		SharedPreferences.Editor editor = prefs.edit();
+
+		editor.putString("createCount", Integer.toString(createCount));
+		editor.putString("startCount", Integer.toString(startCount));
+		editor.putString("resumeCount", Integer.toString(resumeCount));
+		editor.putString("pauseCount", Integer.toString(pauseCount));
+		editor.putString("stopCount", Integer.toString(stopCount));
+		editor.putString("destroyCount", Integer.toString(destroyCount));
+		editor.putString("restartCount", Integer.toString(restartCount));
+
+		tvCreate.setText("onCreate() calls: ");
+		tvStart.setText("onStart() calls: ");
+		tvResume.setText("onResume() calls: ");
+		tvPause.setText("onPause() calls: ");
+		tvStop.setText("onStop() calls: ");
+		tvDestroy.setText("onDestroy() calls: ");
+		tvRestart.setText("onRestart() calls: ");
+
+		editor.commit();
+	}
+
 
 		@Override
 		public void onSaveInstanceState(Bundle savedInstanceState){
@@ -126,6 +171,8 @@ public class ActivityOne extends Activity {
 			savedInstanceState.putInt("stopCount", stopCount);
 			savedInstanceState.putInt("destroyCount", destroyCount);
 			savedInstanceState.putInt("restartCount", restartCount);
+
+
 		}
 
 
